@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home'
+let g:netrw_dirhist_2='/media/c/Users/xenoph/Desktop/A New Life/WorkStuff/SemX/csd852/CIKM2013'
+let g:netrw_dirhist_3='/media/c/Users/xenoph/Desktop/A New Life/WorkStuff/SemX/misc/awards'
+let g:netrw_dirhist_4='/media/c/Users/xenoph/Desktop/A New Life/WorkStuff/Yahoo/code/poselets_matlab_april2013/detector'
+let g:netrw_dirhist_5='/media/c/Users/xenoph/Desktop/A New Life/WorkStuff/SemX/csd852/wsdm14'
